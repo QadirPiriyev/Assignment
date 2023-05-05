@@ -1,0 +1,21 @@
+
+ul{
+    display: inline-block;
+    min-width: 150px;
+    background-color: teal;
+    padding: 10px;
+}
+li{
+    color: aliceblue;
+}
+.hide{
+    display: none;
+}
+
+.tek {
+    background-color: green;
+  }
+
+  .cut {
+    background-color: orange;
+  }
